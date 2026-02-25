@@ -1,7 +1,7 @@
 
 # Research: Fault-Tolerant Agentic RAG Architecture
 
-This document summarizes the technical research and architectural decisions behind the **SIETK AI Chatbot**. For the full academic context, please refer to the [Full Research Preprint (PDF)](https://www.google.com/search?q=./research/Research_Paper.pdf).
+This document summarizes the technical research and architectural decisions behind the **SIETK AI Chatbot**. For the full academic context, please refer to the [Full Research Preprint (PDF)](./Research_Paper.pdf).
 
 ## 🎯 Objective
 
